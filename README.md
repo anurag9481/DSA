@@ -11,4 +11,12 @@ My Data Structures &amp; Algorithms learning journey in Java. This repository co
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anurag9481/DSA/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/anurag9481/DSA/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/anurag9481/DSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
