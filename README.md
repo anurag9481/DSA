@@ -7,6 +7,7 @@ My Data Structures &amp; Algorithms learning journey in Java. This repository co
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anurag9481/DSA/tree/master/0001-two-sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anurag9481/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,4 +20,12 @@ My Data Structures &amp; Algorithms learning journey in Java. This repository co
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/anurag9481/DSA/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anurag9481/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anurag9481/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
