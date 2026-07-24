@@ -7,6 +7,7 @@ My Data Structures &amp; Algorithms learning journey in Java. This repository co
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anurag9481/DSA/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anurag9481/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anurag9481/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
@@ -23,6 +24,7 @@ My Data Structures &amp; Algorithms learning journey in Java. This repository co
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anurag9481/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anurag9481/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
