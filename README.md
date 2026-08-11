@@ -10,6 +10,7 @@ My Data Structures &amp; Algorithms learning journey in Java. This repository co
 | [0015-3sum](https://github.com/anurag9481/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/anurag9481/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anurag9481/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/anurag9481/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anurag9481/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/anurag9481/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -30,6 +31,7 @@ My Data Structures &amp; Algorithms learning journey in Java. This repository co
 | [0015-3sum](https://github.com/anurag9481/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/anurag9481/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anurag9481/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/anurag9481/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anurag9481/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/anurag9481/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -41,5 +43,14 @@ My Data Structures &amp; Algorithms learning journey in Java. This repository co
 | ------- |
 | [0015-3sum](https://github.com/anurag9481/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/anurag9481/DSA/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/anurag9481/DSA/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/anurag9481/DSA/tree/master/0977-squares-of-a-sorted-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anurag9481/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anurag9481/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
