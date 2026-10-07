@@ -53,4 +53,8 @@ My Data Structures &amp; Algorithms learning journey in Java. This repository co
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anurag9481/DSA/tree/master/0075-sort-colors) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/anurag9481/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
